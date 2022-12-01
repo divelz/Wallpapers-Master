@@ -1,8 +1,8 @@
 # Wallpapers Master
 
-Cojunto de fondos de pantalla para que puedas 
-instalar los que mas te gusten.
+Set of wallpapers so you can 
+install the ones you like the most.
 
 ![Imagen numero 55](55.jpg)
 
-<i>Saludos !!! </i>
+<i> Best regard !!! </i>
